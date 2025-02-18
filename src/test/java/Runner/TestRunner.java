@@ -12,8 +12,7 @@ import org.testng.annotations.DataProvider;
                 "pretty",
                 "html:target/cucumber-reports.html",
                 "json:target/cucumber.json"
-        },
-        tags = "@UITest"
+        }
 )
 
 public class TestRunner extends AbstractTestNGCucumberTests {
