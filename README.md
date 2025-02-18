@@ -9,5 +9,5 @@ Mobile Testing using    - Appium.
 
 //ToDo
 
-execute the test using  -  mvn clean install -Dcucumber.filter.tags='<tagname>'
+execute the test using  -  mvn clean install -Dcucumber.filter.tags="<tagname>"
 
